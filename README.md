@@ -1,4 +1,4 @@
-The code resides on the master branch. \\
+The code resides on the master branch. \
 
 This is a chat application built using Node.js (Socket.io) for backend and React.js for frontend. \
 I have added firebase authentication with Google sign in. \
