@@ -1,5 +1,4 @@
 The code resides on the master branch. \
-
 This is a chat application built using Node.js (Socket.io) for backend and React.js for frontend. \
 I have added firebase authentication with Google sign in. \
 I have used Google Cloud MySQL Database for storing the user credentials and the email contacts with whom the user has intitiated the conversation. \
