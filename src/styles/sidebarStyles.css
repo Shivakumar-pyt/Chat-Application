@@ -1,0 +1,32 @@
+.sidebar{
+    width: 30%;
+    height: 80vh;
+    border: 2px solid black;
+    margin-top: 5%;
+}
+
+.sidebar-chats{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat{
+    width: 80%;
+    background-color: lightblue;
+    padding: 1em;
+    border-radius: 1rem;
+}
+
+.chat:first-child{
+    margin-top: 5%;
+}
+
+.chat:hover{
+    background-color: steelblue;
+    transition: 0.4s linear ease-out;
+    cursor: pointer;
+    color: white;
+}

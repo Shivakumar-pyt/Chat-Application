@@ -1,0 +1,6 @@
+.chat-window{
+    height: 80vh;
+    border: 2px solid black;
+    margin-top: 8.5%;
+    overflow: scroll;
+}
