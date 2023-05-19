@@ -1,8 +1,10 @@
+The code resides on the master branch. \\
+
 This is a chat application built using Node.js (Socket.io) for backend and React.js for frontend. \
 I have added firebase authentication with Google sign in. \
 I have used Google Cloud MySQL Database for storing the user credentials and the email contacts with whom the user has intitiated the conversation. \
 The application uses libraries such as React Redux for state management, Socket.io (for bidirectional event based communication between client and server), React Bootstrap for the styling. \
-Intitially the user has to sign in with his email address. Then he will be navigated to the chats page where he will see all the email addresses that he initiated a chat with. On clicking on any one the email addresses, a chat window will open on the side and a message input box. He will be able to see the previous chats with that user and will be able to type messages and read messages. The UI used is simplistic with more focus on the core functionality.
+Intitially the user has to sign in with his email address. Then he will be navigated to the chats page where he will see all the email addresses that he initiated a chat with. On clicking on any one the email addresses, a chat window will open on the side and a message input box. He will be able to see the previous chats with that user and will be able to type messages and read messages. All this conversation is real time. The UI used is simplistic with more focus on the core functionality.
 
 # Getting Started with Create React App
 
